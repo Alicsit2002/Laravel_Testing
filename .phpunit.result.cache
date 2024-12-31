@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\Feature\\AuthControllerTest::test_store_user":7,"Tests\\Feature\\AuthControllerTest::test_index_users":8},"times":{"Tests\\Feature\\AuthControllerTest::test_example":5.786,"Tests\\Feature\\AuthControllerTest::test_store_user":0.108}}
